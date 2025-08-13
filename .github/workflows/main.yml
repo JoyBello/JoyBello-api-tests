@@ -30,4 +30,4 @@ jobs:
 
       - name: Run Postman collection
         run: |
-          postman collection run "AssurdlyQATest.postman_collection"
+          postman collection run "Assurdly_QA_Test.postman_collection.json"
